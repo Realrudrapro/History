@@ -9,5 +9,5 @@ function n2(){
 }
 
  function n3(){
-    alert("You may ask whats economic impact did the country face? ")
+    alert("You may ask whats economic impact did the country face? The airport makes up 4.6% of Hong Kong's GDP. Also they are using 18 billion dollars to reexpand the airport. Part of the expand includes 500 million dollar high speed baggage system. ")
  }
