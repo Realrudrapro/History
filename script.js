@@ -11,3 +11,6 @@ function n2(){
  function n3(){
     alert("You may ask whats economic impact did the country face? The airport makes up 4.6% of Hong Kong's GDP. Also they are using 18 billion dollars to reexpand the airport. Part of the expand includes 500 million dollar high speed baggage system. ")
  }
+ function n4(){
+    alert(" The Hong Kong airport has had many environmental impacts. The airport has already taken 10 km of ocean and is planning to take more. The 2030 airport project is planning to take more ocean and land which will destroy animal habitats. Lots of people have also expressed concerns about contaiminated soil.")
+ }
