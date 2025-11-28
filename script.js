@@ -1,5 +1,5 @@
 function n1(){
-    alert("The Hong Kong airport reclamation project is a massive project envolving 367 million m^3. It combines two Islands, Chek Lap Kok and Lam Chau. It uses advanced techniques such as deep cement mixing. The organization responsible for this project was the Hong Kong goverment. ")
+    alert("The Hong Kong airport reclamation project is a massive project envolving 367 million m^3. It combines two Islands, Chek Lap Kok and Lam Chau. It uses advanced techniques such as deep cement mixing. The organization responsible for this project was the Hong Kong goverment. The project started in 1990s and ended in 1998. ")
 
 }
 
@@ -16,5 +16,5 @@ function n2(){
 
  }
  function n5(){
-    alert("You also may ask \" What is the social impact!?\", lucky for you I am answering this question. There is 28 million passengers per year. Also 5 hour flight from half of the worlds population")
+    alert("You also may ask \" What is the social impact!?\" Lucky for you I am answering this question. There was 28 million passengers in the first year and many more since. Also this airport is a 5 hour flight from half of the worlds population. Due to the airport they expanded their highways increasing connections to the city.")
  }
