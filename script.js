@@ -13,4 +13,8 @@ function n2(){
  }
  function n4(){
     alert(" The Hong Kong airport has had many environmental impacts. The airport has already taken 10 km of ocean and is planning to take more. The 2030 airport project is planning to take more ocean and land which will destroy animal habitats. Lots of people have also expressed concerns about contaiminated soil.")
+
+ }
+ function n5(){
+    alert("You also may ask \" What is the social impact!?\", lucky for you I am answering this question. There is 28 million passengers per year. Also 5 hour flight from half of the worlds population")
  }
