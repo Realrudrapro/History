@@ -1,5 +1,5 @@
 function n1(){
-    alert("The Hong Kong airport reclamation project is a massive project envolving 367 million m^3. It combines two Islands, Chek Lap Kok and Lam Chau. It uses advanced techniques such as deep cement mixing. The organization responsible for this project was the Hong Kong goverment. The project started in 1990s and ended in 1998. ")
+    alert("The Hong Kong airport reclamation project is a massive project envolving 367 million m^3. Hong Kong's airport was so busy they needed to build a new one and they built the most advanced in the world. It combines two Islands, Chek Lap Kok and Lam Chau. It uses advanced techniques such as deep cement mixing. The organization responsible for this project was the Hong Kong goverment. The project started in 1990s and ended in 1998. ")
 
 }
 
